@@ -11,4 +11,7 @@ agora acho que deu certo
 agora foi!!!
 editando novamente!
 
+tudo certo, eu acho!
+
+Agora consigo abrir com Notepadd++.
 
